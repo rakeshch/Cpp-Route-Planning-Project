@@ -16,7 +16,7 @@ git clone git@github.com:rakeshch/CppND-Route-Planning-Project.git --recurse-sub
 ```
 ## Project Code Overview
 
-This diagram shows the overall class structure for the project. 
+This diagram shows the overall code structure for the project. 
 
 <img src="code_structure.png" width="704" height="359" />
 
