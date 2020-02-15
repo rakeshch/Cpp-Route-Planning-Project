@@ -58,7 +58,7 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 ./test
 
-<img src="map.png" width="600" height="603" />
+<img src="tests.png" width="950" height="250" />
 
 ```
 
