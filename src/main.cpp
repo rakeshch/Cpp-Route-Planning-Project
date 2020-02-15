@@ -29,7 +29,7 @@ static std::optional<std::vector<std::byte>> ReadFile(const std::string &path)
 
 //x is in range [low,high] only if x is greater than or equal to low and smaller than or equal to high
 bool inRange(unsigned x){
-    float low =0, high =100;
+    unsigned low =0, high =100;
     return ((x-low) <= (high-low));
 }
 
