@@ -59,3 +59,6 @@ The testing executable is also placed in the `build` directory. From within `bui
 ./test
 ```
 
+## References
+[A*Pathfinding for Beginners](http://csis.pace.edu/~benjamin/teaching/cs627/webfiles/Astar.pdf)
+
