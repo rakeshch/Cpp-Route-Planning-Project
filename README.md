@@ -57,10 +57,8 @@ Or to specify a map file:
 The testing executable is also placed in the `build` directory. From within `build`, you can run the unit tests as follows:
 ```
 ./test
-
-<img src="tests.png" width="950" height="250" />
-
 ```
+<img src="tests.png" width="950" height="250" />
 
 ## References
 [A* Pathfinding for Beginners](http://csis.pace.edu/~benjamin/teaching/cs627/webfiles/Astar.pdf)
