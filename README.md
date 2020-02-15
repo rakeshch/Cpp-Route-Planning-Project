@@ -57,6 +57,9 @@ Or to specify a map file:
 The testing executable is also placed in the `build` directory. From within `build`, you can run the unit tests as follows:
 ```
 ./test
+
+<img src="map.png" width="600" height="603" />
+
 ```
 
 ## References
