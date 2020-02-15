@@ -58,7 +58,7 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 ./test
 ```
-<img src="tests.png" width="950" height="250" />
+<img src="tests.png" width="550" height="250" />
 
 ## References
 [A* Pathfinding for Beginners](http://csis.pace.edu/~benjamin/teaching/cs627/webfiles/Astar.pdf)
