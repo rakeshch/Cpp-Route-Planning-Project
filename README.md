@@ -18,7 +18,7 @@ git clone git@github.com:rakeshch/CppND-Route-Planning-Project.git --recurse-sub
 
 This diagram shows the overall class structure for the project. 
 
-<img src="code_structure.PNG" width="704" height="359" />
+<img src="code_structure.png" width="704" height="359" />
 
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
