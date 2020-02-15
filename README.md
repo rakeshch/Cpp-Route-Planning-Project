@@ -14,6 +14,11 @@ or with SSH:
 ```
 git clone git@github.com:rakeshch/CppND-Route-Planning-Project.git --recurse-submodules
 ```
+## Project Code Overview
+
+This diagram shows the overall class structure for the project. 
+
+<img src="code_structure.PNG" width="704" height="359" />
 
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
